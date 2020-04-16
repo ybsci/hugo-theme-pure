@@ -1,0 +1,171 @@
+
+nav_all:
+  other: Hepsi
+nav_older:
+  other: Daha Eski
+nav_newer:
+  other: Daha Yeni
+
+
+page_home:
+  other: Ana Sayfa
+page_archive:
+  other: Arşiv
+page_archives:
+  other: Arşivler
+page_category:
+  other: Kategori
+page_categories:
+  other: Kategoriler
+page_tag:
+  other: Etiket
+page_tags:
+  other: Etiketler
+page_tagcloud:
+  other: Etiket Bulutu
+page_about:
+  other: Hakkımda
+
+pagination_next:
+  other: Sonraki
+pagination_prev:
+  other: Önceki
+pagination_page:
+  other: Sayfa %d
+pagination_pageof:
+  other: "Sayfa %d/%s"
+
+widget_search:
+  other: Arama
+widget_board:
+  other: Pano
+widget_archive:
+  other: Arşiv
+widget_tags:
+  other: Etiketler
+widget_categories:
+  other: Kategoriler
+widget_tagcloud:
+  other: Etiket Bulutu
+widget_recent_posts:
+  other: Geçmiş Postlarım
+
+
+profile_follow:
+  other: Takip
+profile_skill:
+  other: Beceriler
+profile_label:
+  other: Labels
+profile_work:
+  other: Çalışmalar
+profile_project:
+  other: Projeler
+profile_link:
+  other: Linkler
+
+insight_hint:
+  other: "Bir şeyler yaz..."
+insight_posts:
+  other: Postlar
+insight_pages:
+  other: Sayfalar
+insight_categories:
+  other: Kategoriler
+insight_tags:
+  other: Etiketler
+insight_untitled:
+  other: (İsimsiz)
+
+
+unit_word:
+  other:  " "
+unit_time:
+  other: " dakika"
+
+article_wordcount:
+  other: "Kelime Sayısı: "
+article_readcount:
+  other: "Okuma Süresi: "
+article_more:
+  other: Daha Fazlası
+article_comments:
+  other: Yorumlar
+article_share:
+  other: Paylaş
+article_catalogue:
+  other: Katalog
+
+total_article:
+  other: Toplam {{ .Count }} yazı
+total_tag:
+  other: Toplam {{ .Count }} etiket
+total_category:
+  other: Toplam {{ .Count }} kategori
+total_link:
+  other: Toplam {{ .Count }} link
+total_repository:
+  other: Toplam {{ .Count }} proje
+
+
+donate_qrcode_alt:
+  other: Qrcode tarat
+donate_qrcode_title:
+  other: Tara
+donate_button:
+  other: ₺
+donate_title:
+  other: Bana bir fincan kahve ısmarlayabilirsin.
+donate_tip:
+  other: Bu Qrcode tarat
+donate_alipay_action_tip:
+  other: yok
+donate_wechatpay_action_tip:
+  other: yok
+donate_alipay:
+  other: alipay
+donate_wechatpay:
+  other: yok
+
+
+comment:
+  other: Yorum
+tweets:
+  other: Tweetler
+share:
+  other: Paylaş
+rss_feed:
+  other: RSS Besleme
+
+
+copyright_theme_by:
+  other: Theme by
+copyright_base_on:
+  other: base on
+copyright_powered_by:
+  other: Powered by
+copyright_post:
+  other: Permalink
+copyright_license:
+  other: Lisans
+
+insight_hint: 
+  other: Bir şeyler yaz...
+insight_posts: 
+  other: Postlar
+insight_pages: 
+  other: Sayfalar
+insight_categories:
+  other: Kategoriler
+insight_tags:
+  other: Etiketler
+insight_untitled:
+  other: (İsimsiz)
+
+page_not_found_heading:
+  other: 404 Sayfa Bulunamadı.
+page_not_found_body:
+  other: Aradığınız sayfa kaldırılmış, adı değiştirilmiş veya geçici olarak kullanılamıyor olabilir.
+page_not_found_back:
+  other: Geri Dön.
+
